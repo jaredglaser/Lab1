@@ -18,7 +18,7 @@ public class IncomeCalc {
 		double annReturnEmp = scanner.nextDouble();
 		
 		System.out.println("How many years do you expect to be retired?");
-		int yearsRetired = scanner.nextInt(); //months retired
+		int yearsRetired = scanner.nextInt();
 	
 		System.out.println("What is your expected Annual Return while retired? (in decimal format)");
 		double annReturnRet = scanner.nextDouble();
